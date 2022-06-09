@@ -52,6 +52,15 @@ h2 {
     width: 3.2rem;
 }
 
+.arrow.back {
+    color: rgb(95, 95, 95);
+}
+
+.arrow.back:hover {
+    cursor: pointer;
+    color: rgb(254, 106, 56);
+}
+
 .excercises-list {
     display: flex;
     justify-content: center;
